@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my skills in <br>machine learning in marketing and investing<br>👯 I’m looking to collaborate on machine learning projects in hot topics<br>🤝 I’m looking for help with learning the R language,<br> data structures, and programming chatbots<br>🌱 I’m currently learning tools for Data-driven target audience analysis,<br>prediction of future sales, market assessment<br>💬 Ask me about creative ideas for your projects<br> and domain knowledge in marketing and social media<br>⚡ Interesting fact about me I am inquisitive like a raccoon, <br>active like a sloth, smiling like a quokka, <br>and eager to help like a Labrador
+🔭 I’m currently working on developing my skills in machine learning in marketing and investing<br>👯 I’m looking to collaborate on machine learning projects in hot topics<br>🤝 I’m looking for help with learning the R language, data structures, and programming chatbots<br>🌱 I’m currently learning tools for Data-driven target audience analysis, prediction of future sales, market assessment<br>💬 Ask me about creative ideas for your projects and domain knowledge in marketing and social media<br>⚡ Interesting fact about me I am inquisitive like a raccoon, active like a sloth, smiling like a quokka, and eager to help like a Labrador
 
 
 ## 🌐 Socials:
